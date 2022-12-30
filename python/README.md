@@ -11,6 +11,6 @@ You are in the right spot.  Well, you're getting warmer.
 
 For the entire 2 minute tutorial see:
 
-[Python Kakfa Tutorial](https://supergloo.com/kafka-tutorials/python-kafka-in-two-minutes/)
+[Python Kafka Tutorial](https://supergloo.com/kafka-tutorials/python-kafka-in-two-minutes/)
 
 
